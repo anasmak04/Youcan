@@ -1,0 +1,110 @@
+
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  #header{
+        background-size: cover;
+        background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+  
+        height: 50vh;
+        width: 100%;
+        background-image:  linear-gradient(rgba(194,30,68,0.9)    ,rgba(107,55,106,0.9));
+  }
+  
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .box101 {
+    flex:1 1 900px;
+    margin:20px;
+  }
+  .btns{
+    margin-left: 30px;
+  }
+  
+  .btns button{
+    padding: 8px 18px;
+    margin: 8px;
+    cursor: pointer;
+  }
+  
+  select{
+    padding: 8px 25px;
+    background-color: transparent;
+    border: none;
+    color: white;
+  }
+  option{
+    color: grey;
+  }
+  
+  #btnaa{
+    background-color: #1FBADF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 400;
+    width: 103.17px;
+    height: 40px;
+    padding: 8px 40px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  
+  #btnaaa{
+    background-color: rgba(152,96,132,0.4);
+    color: white;
+    font-size: 20px;
+    border: 1px solid rgba(152,96,132,0.4);
+    border-radius: 8px;
+    font-weight: 400;
+    width: 124.59px;
+    height: 40px;
+    line-height: 24px;
+    padding: 8px 12px;
+    font-style: normal;
+  }
+  
+  #btnaaaa{
+    background-color: rgba(152,96,132,0.4);
+    color: white;
+    font-size: 20px;
+    border: 1px solid rgba(152,96,132,0.4);
+    border-radius: 8px;
+    font-weight: 400;
+    width: 124.59px;
+    height: 40px;
+    line-height: 24px;
+    padding: 8px 12px;
+    font-style: normal;
+  position: relative;
+  cursor: pointer;
+  margin: 6px;
+  }
+
+
+#header h1{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 60px;
+    font-style: normal;
+    padding-bottom: 40px;
+}
+
+#header p{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    font-style: normal;
+}

@@ -1,0 +1,101 @@
+.bg{
+    background-image: url("https://static3.youcan.shop/store-admin/images/login-bg.png");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #f8f8f8;
+    height: 700px;
+    font-family: "Noto Kufi Arabic", sans-serif;
+
+}
+
+.header{
+    padding-top: 40px;
+}
+
+.header h1{
+    font-weight: 600;
+    line-height: 27px;
+    font-style: normal;
+    font-size: 18px;
+    color: #1a1a1a;
+}
+
+.header img{
+    width: 125px;
+    height: 28px;
+}
+
+
+.form-control{
+   margin: 0 auto;
+   display: block;
+    border: 1px solid #E5E7EB;
+    width: 500px;
+    height: 353px;
+    margin-top: 40px;
+    border-radius: 4px;
+    background-color: white;
+    padding-top: 30px;
+
+}
+
+.form-control a{
+    padding-right: 290px;
+    text-decoration: none;
+    color: #aa2e66;
+    font-weight:400 ;
+    font-style:normal ;
+    list-style: 21px;
+    font-size: 14px;
+}
+
+input{
+    width: 438px;
+    height: 50px;
+    margin: 9px;
+    border: 1px solid #E5E7EB;
+    padding: 10px 15px 10px 110px;
+    font-weight: 400;
+    line-height:14px ;
+    font-size: 14px;
+    font-style: normal;
+    color: #000000;
+}
+
+
+button{
+    padding: 12px 24px;
+    width: 438px;
+    height: 40px;
+    color: white;
+    background-color: #aa2e66;
+    border: none;
+    cursor: pointer;
+    font-weight: 400;
+  line-height:14px ;
+  font-size: 14px;
+  font-style: normal;
+  margin-top: 20px;
+
+}
+
+.footend{
+    width: 500px;
+    height: 63px;
+    background-color: white;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    border: 1px solid #E5E7EB;
+}
+
+.footend p{
+    padding-top: 20px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 21px;
+    color: #1a1a1a;
+    font-size: 14px;
+ 
+}

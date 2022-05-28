@@ -1,0 +1,128 @@
+/* .careers1{
+    background-color:#FFFF;
+    margin-top:-4rem;
+    width: 1300px;
+    height:1090px;
+    border-radius: 9px;
+  margin-left: 2%;
+   padding-top: 30px;
+   box-shadow: 0 0 5px #333;
+}
+*{
+    font-family: "Noto Kufi Arabic", sans-serif;
+}
+.careers1 h1{
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    font-weight: 400;
+    line-height: 33px;
+    font-family: "Noto Kufi Arabic", sans-serif;
+
+    font-style: normal;
+}
+
+.parent88{
+  /* display: grid;
+  grid-template-columns: repeat(200px,600px);
+  place-items: center;
+  gap: 40px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box img{
+    width: 477px;
+    height: 297.97px;
+}
+
+.box123 input[type="email"]{
+    width: 477px;
+    height: 50px;
+    padding: 12px 16px;
+    margin: 16px;
+    border-radius:0.5rem;
+    border:0.5px solid #444953;
+    background-color:#F3F4F6;
+}
+.box123 input[type="number"]{
+    width: 477px;
+    height: 50px;
+    padding: 12px 16px;
+    margin: 16px;
+    border-radius:0.5rem;
+    border:0.5px solid #444953;
+    background-color:#F3F4F6;
+}
+
+.box123 input[type="text"]{
+    width: 230.5px;
+    height: 50px;
+    padding: 12px 16px;
+    margin: 16px;
+    border-radius:0.5rem;
+    border:0.5px solid #444953;
+    background-color:#F3F4F6;
+}
+
+.box123 label{
+   display: flex;
+   justify-content: flex-start;
+    color:#444953;
+    font-size:16px;
+    padding-right: 80px;
+
+}
+
+.box123 textarea{
+  width: 926px;
+  height: 150px;
+  margin-bottom: 40px;
+}
+
+.box123 button{
+    width: 1100px;
+    height: 40px;
+    padding: 8px 10px;
+    position: relative;
+    right: 100px;
+    font-size: 16px;
+     background-color: #1FBADF;
+     color: white;
+     border: none;
+     border-radius: 9px;
+     cursor: pointer;
+     margin: 8px;
+     margin: 0 auto;
+     display: block;
+}
+
+.box123 input[type=file]{
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+
+}
+
+
+
+.box123{
+    width: 60%;
+}
+
+.box77{
+    width: 40%;
+    height: 350px;
+}
+
+.flexx{
+    display: flex;
+}
+
+.flex1{
+    display: flex;
+}
+
+.lastt{
+    margin-right: 130px;
+} */
